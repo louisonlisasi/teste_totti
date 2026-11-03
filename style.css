@@ -1,0 +1,33 @@
+h1 {
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+    color: green;
+    text-align: center;
+}
+
+img {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 25px;
+    line-height: 1.5;
+    color: #333;
+    text-align: justify;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+    /*      /*
